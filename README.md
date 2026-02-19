@@ -1,9 +1,4 @@
-#Hello World 
 
-Minha primeira página web!
-
-```html
-<!DOCTYPE html>
 <html>
 <head>
 <title >Hello Web</title >
