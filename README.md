@@ -1,3 +1,6 @@
+
+```html
+<!DOCTYPE html>
 <html>
 <head>
 <title >Hello Web</title >
